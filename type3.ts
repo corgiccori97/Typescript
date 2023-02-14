@@ -8,3 +8,7 @@ if (typeof(x) === 'number') {
 function hello() {
     console.log('aaaa')
 }
+
+function test():string[] {
+    return []
+}
